@@ -1,2 +1,0 @@
-# cyberdidis
-cu do cortador 
